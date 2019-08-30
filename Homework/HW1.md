@@ -1,7 +1,7 @@
 # CSCI 195 Fall 2019
 # Homework assignment 1
-# Start: 11:00am 08/28/2019
-# Due:   11:59pm 09/04/2019 
+# Start: 11:00am 08/30/2019
+# Due:   11:59pm 09/06/2019 
 
 
 ## Q1: calculate and print 
@@ -17,3 +17,6 @@
    name it as the requirments (CSCI195_Homework1_JohnSmith(01234567).py or CSCI195_Homework1_JohnSmith(01234567).ipynb, where
    01234567 is your Beecard number).
 ## Step 2: submit this file on [Blackboard](https://blackboard.sau.edu)
+
+
+
