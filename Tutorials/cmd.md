@@ -1,4 +1,4 @@
-# This tutorial is about how to run a python scripta(.py file) 
+# This tutorial is about how to run a python script(.py file) 
 ## On Windows
 + `windows + r` on your keyboard to open the `run` window.
 + type `cmd` then click on `OK` (or you can combine these two steps by searching for `Command Prompt`)
