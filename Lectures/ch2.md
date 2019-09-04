@@ -9,4 +9,4 @@
   - random numbers
 ## What is Pi/π?
 + Pi is the ratio of a circle's circumference to its diameter
-  $$\pi = C/d$$
+ ![](http://\pi = C/d)
