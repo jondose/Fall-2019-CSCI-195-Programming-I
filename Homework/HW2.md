@@ -1,7 +1,7 @@
 # CSCI 195 Fall 2019
 # Homework assignment 2
 # Start: 11:00am 09/06/2019
-# Due:   11:59pm 09/13/2019 
+# Due:   11:59pm 09/16/2019 
 
 
 ## Q1: Programming exercises 2.6
