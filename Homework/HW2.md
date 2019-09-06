@@ -6,6 +6,7 @@
 
 ## Q1: Programming exercises 2.6
 ## Q2: Programming exercises 2.8
+## Note that: you also need to write some test code for each function.
 
 ## Step 1: write all the code in one single **python file** or **jupyter notebook file**, 
    name it as the requirments (CSCI195_Homework2_JohnSmith(01234567).py or CSCI195_Homework2_JohnSmith(01234567).ipynb, where
