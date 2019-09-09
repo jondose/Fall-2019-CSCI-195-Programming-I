@@ -4,8 +4,8 @@
 # Due:   11:59pm 09/16/2019 
 
 
-## Q1: Programming exercises 2.6 (textbook)
-## Q2: Programming exercises 2.8 (textbook)
+## Q1: Programming exercises 2.6 (page 81, textbook)
+## Q2: Programming exercises 2.8 (page 81, textbook)
 ## Note that: you also need to write some test code for each function.
 
 ## Step 1: write all the code in one single **python file** or **jupyter notebook file**, 
