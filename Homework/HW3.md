@@ -1,7 +1,7 @@
 # CSCI 195 Fall 2019
 # Homework assignment 3
-# Start: 11:00am 09/13/2019
-# Due:   11:59pm 09/20/2019 
+# Start: 11:00am 09/16/2019
+# Due:   11:59pm 09/23/2019 
 
 ##   
 ## Q1: Declare two string variables, join them together and print the result (10 points)
