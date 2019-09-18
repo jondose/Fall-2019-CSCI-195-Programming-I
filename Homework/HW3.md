@@ -14,8 +14,7 @@
 ## Note that: you also need to write some test code for functions in Q4.
 
 ## Step 1: write all the code in one single **python file** or **jupyter notebook file**, 
-   name it as the requirments (CSCI195_Homework3_JohnSmith(01234567).py or CSCI195_Homework3_JohnSmith(01234567).ipynb, where
-   01234567 is your Beecard number).
+##   name it as the requirments (CSCI195_Homework3_JohnSmith(01234567).py or CSCI195_Homework3_JohnSmith(01234567).ipynb, where 01234567 is your Beecard number).
 ## Step 2: submit this file on [Blackboard](https://blackboard.sau.edu)
 
 
